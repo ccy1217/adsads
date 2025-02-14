@@ -2,35 +2,35 @@
     {
         "id": 1,
         "title": "Organic blueberries, apples, bananas and vanilla puree baby pouch 4+ months 120g",
-        "description": "Book your dream vacation at discounted prices.",
+        "sponsor": "Sponsored by: Ella's kitchen",
         "image": "https://images.ellaskitchen.co.uk/eyJidWNrZXQiOiJlbGxhc2tpdGNoZW4td2Vic2l0ZSIsImtleSI6InByb2R1Y3RzL2VsbGFzLWtpdGNoZW4tYmx1ZWJlcnJ5LWFwcGxlLWJhbmFuYS1iYWJ5LXB1cmVlLXBvdWNoLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MzUwLCJwb3NpdGlvbiI6ImNlbnRlciIsImZpdCI6ImNvdmVyIn0sIndpdGhNZXRhZGF0YSI6dHJ1ZSwidG9Gb3JtYXQiOiJwbmciLCJwbmciOnsiY29tcHJlc3Npb25MZXZlbCI6MiwicHJvZ3Jlc3NpdmUiOmZhbHNlfX19",
         "url": "https://www.ellaskitchen.co.uk/shop/blueberries-apples-bananas-puree"
     },
     {
         "id": 2,
         "title": "Timmy Turtle soft toy 28cm",
-        "description": "Trendy outfits at unbeatable prices. Shop now!",
+        "sponsor": "Sponsored by: Jellycat",
         "image": "https://www.tickety-boo.co.uk/acatalog/mzm_9a34f1e9e7835a1ec41344c9eb9618a1_435_435_ffffff_75.jpg",
         "url": "https://www.selfridges.com/GB/en/product/jellycat-timmy-turtle-soft-toy-28cm_R04185809/?&gad_source=1&gclid=CjwKCAiA8Lu9BhA8EiwAag16b7oAlwUGo2DnPY_xUfYUjg8n2D1U64El170P80zQV7HILLbr4G-3KhoCv6EQAvD_BwE&gclsrc=aw.ds#colour=MULTI"
     },
     {
         "id": 3,
         "title": "Johnson's Baby Product Wrongly nodded in beauty",
-        "description": "Book your dream vacation at discounted prices.",
+        "sponsor": "Sponsored by: Desertcart",
         "image": "https://m.media-amazon.com/images/I/51m83nuqmdL.jpg",
         "url": "https://www.desertcart.sc/products/619060338-baby-product-wrongly-nodded-in-beauty"
     },
     {
         "id": 4,
         "title": "Pampers Baby Diapers - Swaddlers - Size 1, 96 Count, Ultra Absorbent Disposable Infant Diaper",
-        "description": "jjj",
+        "sponsor": "Sponsored by: Pampers Store",
         "image": "https://m.media-amazon.com/images/I/71nKxPf58bL.jpg",
         "url": "https://www.amazon.co.uk/Pampers-Swaddlers-Diapers-Size-Count/dp/B08VLCSTPC"
     },
     {
         "id": 5,
         "title": "Aptamil® Advanced First Infant Milk 800g",
-        "description": "jjj",
+        "sponsor": "Sponsored by: Aptamil",
         "image": "https://smartmedia.digital4danone.com/is/image/danonecs/94940%20Aptamil%20Advacned%20IF%20800g%20Back%20V2?ts=1702543554765&fmt=png-alpha&dpr=off",
         "url": "https://www.aptaclub.co.uk/products/milk-formulas/aptamil-advanced/0-6-months/aptamil-advanced-infant-formula-800-grams.html"
     }
