@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "50% Off on Electronics!",
+        "description": "Get the latest gadgets at half the price. Limited time offer!",
+        "image": "https://m.media-amazon.com/images/I/51m83nuqmdL.jpg",
+        "url": "https://www.desertcart.sc/products/619060338-baby-product-wrongly-nodded-in-beauty"
+    },
+    {
+        "id": 2,
+        "title": "Summer Sale on Clothing",
+        "description": "Trendy outfits at unbeatable prices. Shop now!",
+        "image": "https://m.media-amazon.com/images/I/51m83nuqmdL.jpg",
+        "url": "https://www.desertcart.sc/products/619060338-baby-product-wrongly-nodded-in-beauty"
+    },
+    {
+        "id": 3,
+        "title": "washing lotion",
+        "description": "Book your dream vacation at discounted prices.",
+        "image": "https://m.media-amazon.com/images/I/51m83nuqmdL.jpg",
+        "url": "https://www.desertcart.sc/products/619060338-baby-product-wrongly-nodded-in-beauty"
+    }
+]
